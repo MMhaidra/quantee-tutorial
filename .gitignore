@@ -1,0 +1,6 @@
+venv
+data
+input
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*.pyc
